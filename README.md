@@ -12,7 +12,7 @@ practice fork and pull workflow
 7. Submit a PR request. 
 8. Wait 24 hours. When everyone is here, I will provide more instructions.
 =======
-4. Change the 7 random numbers and letters here: `h4i20ww`
+4. Change the 7 random numbers and letters here: `2020202`
 5. Commit the change.
 6. Push your change to `origin`.
 7. Submit a PR request. 
