@@ -6,7 +6,7 @@ practice fork and pull workflow
 2. Clone your fork
 3. Set an upstream remote
 <<<<<<< HEAD
-4. Change the 7 random numbers and letters here: `23333333`
+4. Change the 7 random numbers and letters here: `2333`
 5. Commit the change.
 6. Push your change to `origin`.
 7. Submit a PR request. 
