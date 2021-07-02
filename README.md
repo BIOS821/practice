@@ -5,7 +5,14 @@ practice fork and pull workflow
 1. Fork this repository
 2. Clone your fork
 3. Set an upstream remote
-4. Change the 7 random numbers and letters here: `h4i20ww`
+<<<<<<< HEAD
+4. Change the 7 random numbers and letters here: `2333`
+5. Commit the change.
+6. Push your change to `origin`.
+7. Submit a PR request. 
+8. Wait 24 hours. When everyone is here, I will provide more instructions.
+=======
+4. Change the 7 random numbers and letters here: `2020202`
 5. Commit the change.
 6. Push your change to `origin`.
 7. Submit a PR request. 
@@ -19,3 +26,4 @@ practice fork and pull workflow
 13. Push your change to your `origin`.
 14. Submit a PR request.
 15. Ensure that your PR request can be merged without conflict.
+>>>>>>> e958fef3f316af616787bcc77455cb1d4e048867
